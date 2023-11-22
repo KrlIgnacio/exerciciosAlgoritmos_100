@@ -8,7 +8,7 @@
 
 - Exercícios básicos para desenvolver a lógica.
 #
-<h3>📚Consteúdos abordados nos exercícios:</h3>
+<h3>📚Conteúdos abordados nos exercícios:</h3>
 
 - Variáveis.
 
